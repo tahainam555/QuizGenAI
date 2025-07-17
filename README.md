@@ -106,7 +106,7 @@ Answer: B
 ## 👤 Author
 
 **M. Taha**  
-AI Developer & Student — [LinkedIn](https://linkedin.com/in/your-profile)  
+AI Developer & Student — [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-taha-6651a72a1/))  
 Building real-world AI tools for education and automation.
 
 ---
