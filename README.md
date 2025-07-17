@@ -2,8 +2,6 @@
 
 > Automatically generate quizzes from course PDFs using AI — Summaries, MCQs, and Short Answers, all in one click.
 
-![QuizGen Banner](https://via.placeholder.com/1200x300?text=QuizGen+AI+%7C+PDF+to+Quiz+Generator)
-
 ---
 
 ## 🚀 Overview
