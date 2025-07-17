@@ -105,12 +105,6 @@ Answer: B
 
 ---
 
-## 📤 Demo Link
-
-[🔗 Hosted on Streamlit Cloud](https://your-app-link.streamlit.app) *(if deployed)*
-
----
-
 ## 👤 Author
 
 **M. Taha**  
